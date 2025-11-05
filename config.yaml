@@ -1,0 +1,7 @@
+name: 'test_project'
+samplesheet: 'config/SampleSheet.csv'
+reference: 'Human'
+r1: 'fastq/TEST_read_1.fq.gz'
+r2: 'fastq/TEST_read_2.fq.gz'
+i1: ''
+i2: ''
